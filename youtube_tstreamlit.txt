@@ -1,0 +1,18 @@
+print("hello")
+
+import streamlit as st
+
+st.title("STREAMLIT DOCUMENTATION")
+st.header("Parameters")
+st.subheader("Types")
+
+st.text("Like the video")
+
+st.markdown(""" # h1 tag
+## h2 tag
+### h3 tag
+""")
+
+st.markdown("""
+:car:
+""")
